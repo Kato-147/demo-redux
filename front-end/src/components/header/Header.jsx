@@ -16,7 +16,7 @@ const Header = (props) => {
     }}>
         <div className='info-container'>
             <div className='info-edit' onClick={handleEdit}>Edit</div>
-            <img className='info-ava' src='https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbGZNaU1ycUNUUkZxS2lOalBVa3Z1a1AwWEJOUXxBQ3Jtc0tsd05ydEtfRnctZlpDMWR0TGRiU20tVnRpTEltaHJHSkV1SlFfZXRReW5tT3pOZWZlQnFYSXlMZzk3Q01uU3l6LXVnM3pIVjZVQVBlbUxiejlUY1UzMU9wVUk5azNtY3dxMDkwYUN6N2RQMlQxcUhmUQ&q=https%3A%2F%2Fpreview.redd.it%2Frrz3hmsxcll71.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D87cc5ed38d8f088ef9fffef7a4c5756b64309d6a' alt='avatar'/>
+            <img className='info-ava' src='https://preview.redd.it/rrz3hmsxcll71.png?width=640&crop=smart&auto=webp&s=87cc5ed38d8f088ef9fffef7a4c5756b64309d6a' alt='avatar'/>
             <div className='info-username'>Ton dep chai</div>
             <div className='info-age'>21 years old</div>
             <div className='info-about'>i'm a software engineer</div>

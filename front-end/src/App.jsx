@@ -12,7 +12,7 @@ function App() {
   return (
     <>
     <div className="App" >
-      {!isEdit ? (<Header setEdit={setEdit}/>) : (<EditPage/>)}
+      {!isEdit ? (<Header setEdit={setEdit}/>) : (<EditPage setEdit={setEdit}/>)}
     </div>
       
     </>
